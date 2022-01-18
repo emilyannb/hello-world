@@ -1,5 +1,4 @@
 # Hello-world
-This is my first repository. 
 Hi, im Emily Budhu. 
 Im interested in Nursing and joining the medical field. 
 Currently, im learning more about HTML, CSS, and Java and I recently started using loops while coding. 
