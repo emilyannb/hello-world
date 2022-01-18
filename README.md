@@ -1,4 +1,4 @@
-# hello-world
+# Hello-world
 This is my first repository. 
 Hi, im Emily Budhu. 
 Im interested in Nursing and joining the medical field. 
